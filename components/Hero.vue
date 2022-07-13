@@ -24,6 +24,7 @@
       <Button
         :text="$t('button')"
         css="mt-4 bg-blueGray-400 shadow-lg text-white self-end lg:self-start"
+        go-to="/post/welcome_2022"
       />
     </div>
     <div class="order-1 lg:order-2 self-center">
