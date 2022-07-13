@@ -1,5 +1,5 @@
 ---
-title: Comienzo de clases 2022
+title: 'Comienzo de clases 2022'
 description: 'Ya iniciamos de manera presencial los cursos de mandarín de todos los niveles. También se inició los cursos de instrumentos musicales.'
 ---
 
@@ -23,9 +23,11 @@ Estamos muy contento de que sus hijos hayan superado varias dificultades y persi
 
 3. Los estudiantes que ya tomaron clases virtuales de chino este año, no necesitan completar nuevamente el formulario de registro, solo deben indicar en el registro de pago: nombre del estudiante en chino y en español, nivel de clase, nombre del maestro.
 
-4. Los estudiantes que estén suspendidos de la clase en este año y quieran tomar clases de chino virtual, por favor comuníquense con el departamento de administración para averiguar si tiene disponibilidad del nivel adecuado.
+4. Los estudiantes nuevos necesitan llenar el formulario de inscripción y enviar los documentos requeridos.
 
-5. Debido al impacto de la pandemia, aun contamos con muchos trabajos en el proceso de ajuste, si hay una nueva notificación, se la informaremos en el grupo, recordamos a los padres que estén pendientes y lean cuidadosamente los anuncios.
+5. Los estudiantes que estén suspendidos de la clase en este año y quieran tomar clases de chino virtual, por favor comuníquense con el departamento de administración para averiguar si tiene disponibilidad del nivel adecuado.
+
+6. Debido al impacto de la pandemia, aun contamos con muchos trabajos en el proceso de ajuste, si hay una nueva notificación, se la informaremos en el grupo, recordamos a los padres que estén pendientes y lean cuidadosamente los anuncios.
 
 <span class="w-full text-center">
 
