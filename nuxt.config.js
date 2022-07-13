@@ -5,9 +5,6 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Academia de Cultura y Arte China de Panamá',
-    htmlAttrs: {
-      lang: 'en'
-    },
     meta: [{
         charset: 'utf-8'
       },
