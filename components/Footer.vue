@@ -98,7 +98,7 @@
 
       <div
         class="w-full border-t border-white/30 pt-4 text-center text-white/40"
-      >Academia de Cultura y Arte China Panamá © - 2022</div>
+      >Academia de Cultura y Arte China Panamá © - {{ new Date().getFullYear() }}</div>
     </div>
   </div>
 </template>
