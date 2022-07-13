@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  h1 {
+    @apply text-4xl xl:text-6xl lg:text-5xl font-bold mb-4;
+  }
+
+  h2 {
+    @apply text-4xl xl:text-5xl lg:text-4xl font-bold mb-4;
+  }
+
+  h3 {
+    @apply text-2xl xl:text-4xl lg:text-3xl font-bold mt-4 mb-6 relative;
+  }
+
+  h3::after {
+    content: "";
+    width: 64px;
+    height: 6px;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    border-radius: 8px;
+  }
+
+  h4 {
+    @apply w-max text-2xl lg:text-3xl font-bold mb-4 relative;
+  }
+
+  .nuxt-content ul {
+    @apply list-disc pl-4 my-4;
+  }
+
+  .nuxt-content ol {
+    @apply list-decimal pl-4 my-4;
+  }
+
+  .nuxt-content hr {
+    @apply w-full border-t-2 border-dashed border-blueGray-300 my-8;
+  }
+}
+
+@layer utilities {
+  .button {
+    @apply flex items-center w-max py-3 px-6 rounded-full font-medium cursor-pointer transition-opacity;
+  }
+
+  .button:hover {
+    @apply opacity-75;
+  }
+
+  .center-section {
+    @apply w-11/12 xl:w-4/5 lg:w-11/12 mx-auto;
+  }
+}
