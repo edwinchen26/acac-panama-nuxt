@@ -140,7 +140,7 @@
                 <div class="my-4 text-orange-700 font-semibold">{{ $t('highlighed_text') }}</div>
                 <Button
                   :text="$t('button_text')"
-                  go-to="https://google.com/"
+                  go-to="../pdf/formulario.pdf"
                   :is-nuxt-link="false"
                   css="bg-orange-200 text-yellow-800 text-sm md:text-base"
                 />
@@ -179,7 +179,7 @@
                 <div class="my-4 text-orange-700 font-semibold">{{ $t('highlighed_text') }}</div>
                 <Button
                   :text="$t('button_text')"
-                  go-to="https://google.com/"
+                  go-to="../pdf/formulario.pdf"
                   :is-nuxt-link="false"
                   css="bg-orange-200 text-yellow-800 text-sm md:text-base"
                 />
