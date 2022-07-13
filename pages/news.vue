@@ -1,11 +1,13 @@
 <i18n>
 {
   "es": {
-    "heading": "Anuncios"
+    "heading": "Anuncios",
+    "read_button": "Ver más"
   },
 
   "zh": {
-    "heading": "通告"
+    "heading": "通告",
+    "read_button": "更多"
   }
 }
 </i18n>
@@ -43,7 +45,7 @@
           <span class="text-sm text-blueGray-400 mb-4 self-end">{{ formatDate(post.createdAt) }}</span>
           <div class="text-blueGray-500 grow">{{ post.description }}</div>
           <Button
-            text="Ver más"
+            :text="$t('read_button')"
             :go-to="`/post/${post.slug}`"
             css="bg-orange-200 text-yellow-800 mt-8 text-sm self-end"
           />
