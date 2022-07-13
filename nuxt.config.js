@@ -94,7 +94,7 @@ export default {
         name: '中文'
       },
     ],
-    defaultLocale: 'es',
+    defaultLocale: 'zh',
     vueI18nLoader: true
   },
 }
