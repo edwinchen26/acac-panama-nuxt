@@ -27,11 +27,11 @@
       "subMenu": {
         "sub_1": {
           "text": "普通话课程",
-          "description": "Brief description of this sub-menu item"
+          "description": " "
         },
         "sub_2": {
           "text": "音乐课程",
-          "description": "Brief description of this sub-menu item"
+          "description": " "
         }
       }
     },
